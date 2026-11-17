@@ -16,7 +16,7 @@
 ### 💗 Sobre mí
 
 - 🌸 ¡Hola! Soy Rubi.
-- 💻 Estudiante de desarrollo de software.
+- 💻 Proximamente egresada en Ingeniería en desarrollo de software.
 - 🎀 Interesada en el desarrollo web y móvil.
 - 🌸 Siempre aprendiendo algo nuevo.
 - ✨ Me encanta crear proyectos que resuelvan problemas reales.
